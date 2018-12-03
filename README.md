@@ -27,6 +27,9 @@ Here ![](http://www.sciweavers.org/upload/Tex2Img_1543850216/render.png) are  th
 
 
 ### Simple Neural Network:
+Second we have also implemented Simple feed forward neural network for classificationwe have used softmax layer for classifying the digits to one of the 10 categories.
 
 ### Deep Learning Model:
+Lastly we have used Deep Neural model with "ReLU" activation function and "softmax" loss function.
+
 
