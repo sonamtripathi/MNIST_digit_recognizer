@@ -36,8 +36,8 @@ Lastly we have used Deep Neural model with "ReLU" activation function and "softm
 Note: Copy the "notebook_importer.py" file which is used for importing the models from different ipython file.
 
 #### References:
-1.https://github.com/akshaybahadur21
+1. https://github.com/akshaybahadur21
 
-2.http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/
+2. http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/
 
 
