@@ -33,3 +33,9 @@ Second we have also implemented Simple feed forward neural network for classific
 Lastly we have used Deep Neural model with "ReLU" activation function and "softmax" loss function.
 
 
+Note: Copy the "notebook_importer.py" file which is used for importing the models from different ipython file.
+##### References:
+1.https://github.com/akshaybahadur21
+2.http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/
+
+
