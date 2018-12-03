@@ -7,7 +7,7 @@ It is a generalization of Logistic regression for those cases where we want to h
 
 In Logistic Regression we assumed that the labels are binary: ![](https://latex.codecogs.com/gif.latex?y%5E%7B%28i%29%7D%20%5Cin%20%5C%7B0%2C1%5C%7D). We used such a classifier to distinguish between two kinds of hand-written digits.
 
-Softmax Regression allows us to handle ![](y^{(i)} \in \{1,\ldots,K\}) where K is the number of Classes.
+Softmax Regression allows us to handle !(y^{(i)} \in \{1,\ldots,K\}) where K is the number of Classes.
 
 
 
